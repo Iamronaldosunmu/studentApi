@@ -1,0 +1,17 @@
+{
+  "name": "studentapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3"
+  }
+}
